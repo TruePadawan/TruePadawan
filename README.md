@@ -4,10 +4,10 @@
   My name is Hermes and I'm a Junior Dev looking to improve my skills, I'm currently taking Harvard's CS50x(Intro to Computer Science) to improve my knowledge on various things     and I'm doing pretty good so far.
   
   ### Languages
-  **C++ + Qt Framework**
-  **Python + Flask**
-  **HTML + CSS + JS**
-  **SQLite**
+  * C++ + Qt Framework
+  * Python + Flask
+  * HTML + CSS + JS
+  * SQLite
 
 [![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=TruePadawan&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
