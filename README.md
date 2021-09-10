@@ -1,7 +1,7 @@
 # Hi, I'm Hermes
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?color=blue&style=for-the-badge)
-
-I'm a Junior Developer currently trying out different technologies and improving my skills.
+<hr>
+I'm a Junior Developer currently trying out different technologies to improve myself.
 <hr>
   ### Technologies
   * C++ + Qt Framework
