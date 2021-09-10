@@ -5,8 +5,16 @@ A Junior Developer currently trying out different technologies to improve myself
 I'm currently working with the Qt Framework and thinking of getting into python.
 <hr>
 
-🧰 ToolBox
+### 🧰 ToolBox
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="C++ Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="C++ Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="C++ Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="C++ Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="C++ Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="C++ Logo" width="50" height="50">
 * Python + Flask
 * HTML + CSS + JS
 * SQLite
