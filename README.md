@@ -1,7 +1,7 @@
-# Hello there
-![image](https://user-images.githubusercontent.com/71678062/111553050-df321900-8783-11eb-9522-18c2360e912c.png)
+# Hi, I'm Hermes
+![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?style=social)
 
-  My name is Hermes and I'm a Junior Developer trying out different technologies and improving my skills
+I'm a Junior Developer currently trying out different technologies and improving my skills.
   
   ### Technologies
   * C++ + Qt Framework
