@@ -4,7 +4,7 @@
 A Junior Developer currently trying out different technologies to improve myself, I'm currently working with the Qt Framework and thinking of getting into python.
 <hr>
 
-🧰 ### ToolBox
+### 🧰 ToolBox
 * C++ + Qt Framework
 * Python + Flask
 * HTML + CSS + JS
