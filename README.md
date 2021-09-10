@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?color=blue&style=for-the-badge)
 
 I'm a Junior Developer currently trying out different technologies and improving my skills.
-  
+<hr>
   ### Technologies
   * C++ + Qt Framework
   * Python + Flask
