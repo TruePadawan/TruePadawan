@@ -1,7 +1,11 @@
 # Hi 👋, I'm Hermes
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?color=blue&style=for-the-badge)
 
-A Developer currently trying out different technologies to improve myself.
+**What am I:** I'm a software developer.
+
+**What do I do:** I build GUI Applications with Qt and C++, I build simple websites with HTML CSS(+ Frameworks) JS(+ React), I also have a little bit of experience on the Backend with Flask.
+
+**Extras:** Currently I'm learning Qt and React as a bridge for React-Native so I can start building mobile applications.
 <hr>
 
 ### 🧰 Tools
