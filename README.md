@@ -5,7 +5,7 @@
 
 **What do I do:** I build GUI Applications with Qt and C++, I build simple websites with HTML CSS(+ Frameworks) JS(+ React), I also have a little bit of experience on the Backend with Flask.
 
-**Extras:** Currently I'm learning Qt and React as a bridge for React-Native so I can start building mobile applications.
+**Extras:** Currently I'm learning Qt and React as a bridge for React-Native so I can start building mobile applications. Doing Daily LeetCode questions
 <hr>
 
 ### 🧰 Tools
