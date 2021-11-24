@@ -24,5 +24,4 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <hr>
 
-[![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=TruePadawan&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hermes's GitHub stats](https://github-readme-stats.vercel.app/api?username=TruePadawan&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
