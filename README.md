@@ -5,7 +5,16 @@
 
 **What do I do:** I build GUI Applications with Qt and C++, I build simple websites with HTML CSS(+ Frameworks) JS(+ React), I also have a little bit of experience on the Backend with Flask.
 
-**Extras:** Currently I'm learning Qt and React as a bridge for React-Native so I can start building mobile applications. Doing Daily LeetCode questions
+**Extras:** Currently I'm learning Qt and React as a bridge for React-Native so I can start building mobile applications. Doing LeetCode questions
+
+## Current Project
+I'm currently working on Nipsie, a simple Audio-Player App.
+
+**Progress**
+* Added a Prototype of the Controls Layout
+
+![image](https://user-images.githubusercontent.com/71678062/143463673-79ab8257-0871-48c5-a1b5-5f86e38a9b33.png)
+
 <hr>
 
 ### 🧰 Tools
