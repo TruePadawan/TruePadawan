@@ -1,13 +1,13 @@
 # Hi 👋, I'm Hermes
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?color=blue&style=for-the-badge)
 
-**What am I:** I'm a software developer.
+**What am I?** I'm a software developer.
 
 **What do I do**
 * I build non-web applications with C++ and Qt
 * I build simple websites with Frontend Web Technologies, I also have a little bit of experience on the Backend with Flask.
 
-**Extras:** Currently I'm learning Qt and ReactJs as a bridge for React-Native so I can start building mobile applications. Doing LeetCode questions
+**What am I learning?** I'm learning Qt and ReactJs as a bridge for React-Native so I can start building mobile applications. I'm also working on my DSA Knowledge.
 
 ## Current Project
 I'm currently working on Nipsie, a simple Audio-Player App.
