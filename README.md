@@ -3,9 +3,11 @@
 
 **What am I:** I'm a software developer.
 
-**What do I do:** I build GUI Applications with Qt and C++, I build simple websites with HTML CSS(+ Frameworks) JS(+ React), I also have a little bit of experience on the Backend with Flask.
+**What do I do**
+* I build non-web applications with C++ and Qt
+* I build simple websites with Frontend Web Technologies, I also have a little bit of experience on the Backend with Flask.
 
-**Extras:** Currently I'm learning Qt and React as a bridge for React-Native so I can start building mobile applications. Doing LeetCode questions
+**Extras:** Currently I'm learning Qt and ReactJs as a bridge for React-Native so I can start building mobile applications. Doing LeetCode questions
 
 ## Current Project
 I'm currently working on Nipsie, a simple Audio-Player App.
