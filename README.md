@@ -4,10 +4,13 @@
 **What am I?** I'm a software developer.
 
 **What do I do**
-* I build non-web applications with C++ and Qt
+* I build simple applications with C++ and Qt
 * I build simple websites with Frontend Web Technologies, I also have a little bit of experience on the Backend with Flask.
 
-**What am I learning?** I'm learning Qt and ReactJs as a bridge for React-Native so I can start building mobile applications. I'm also working on my DSA Knowledge.
+**What am I learning?** 
+* I'm learning Qt and ReactJs as a bridge for React-Native so I can start building mobile applications.
+* I'm also working on my DSA Knowledge.
+* I'm also doing The Odin Project to know more about Web Technologies
 
 ## Current Project
 I'm currently working on Nipsie, a simple Audio-Player App.
