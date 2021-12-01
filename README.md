@@ -13,9 +13,12 @@
 I'm currently working on Nipsie, a simple Audio-Player App.
 
 **Progress**
-* Added a Prototype of the Controls Layout
+* Added the Controls Layout
+* Added the File Info Layout
+* Added basic audio playing, seeking and volume control
+* Improved UI a bit and added app icon
 
-![image](https://user-images.githubusercontent.com/71678062/143463673-79ab8257-0871-48c5-a1b5-5f86e38a9b33.png)
+![image](https://user-images.githubusercontent.com/71678062/144242362-cd998b56-41d6-4b41-bcc4-55d483d90276.png)
 
 <hr>
 
