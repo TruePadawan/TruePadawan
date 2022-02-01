@@ -8,7 +8,7 @@
 * I build simple websites with Frontend Web Technologies, I also have a little bit of experience on the Backend with Flask.
 
 **What am I learning?** 
-* I'm learning Qt and ReactJs as a bridge for React-Native so I can start building mobile applications.
+* I'm ReactJs so I can smoothly dive into React-Native for mobile development.
 * I'm also working on my DSA Knowledge.
 * I'm also doing The Odin Project to know more about Web Technologies
 
