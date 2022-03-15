@@ -4,12 +4,11 @@
 **What am I?** I'm a software developer.
 
 **What do I do**
-* I build simple applications with C++ and Qt
-* I build simple websites with Frontend Web Technologies, I also have a little bit of experience on the Backend with Flask.
+* I build simple desktop applications with C++ and Qt
+* I build websites with Frontend Web Technologies ranging from Plain old HTML CSS JS to ReactJS.
 
 **What am I learning?** 
 * I'm ReactJs so I can smoothly dive into React-Native for mobile development.
-* I'm also working on my DSA Knowledge.
 * I'm also doing The Odin Project to know more about Web Technologies
 
 <hr>
@@ -27,8 +26,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
