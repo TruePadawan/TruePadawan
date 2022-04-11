@@ -1,15 +1,14 @@
 # Hi 👋, I'm Hermes
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?color=blue&style=for-the-badge)
 
-**What am I?** I'm a software developer.
+**I'm a developer.**
 
-**What do I do**
-* I build simple desktop applications with C++ and Qt
-* I build websites with Frontend Web Technologies ranging from Plain old HTML CSS JS to ReactJS.
+I work with **C++ | Qt | HTML | CSS | Js | ReactJS**
 
-**What am I learning?** 
-* I'm ReactJs so I can smoothly dive into React-Native for mobile development.
-* I'm also doing The Odin Project to know more about Web Technologies
+* I use C++ and Qt to build simple desktop apps
+* I use HTML | CSS | Js | React | to build webpages and webapps
+
+- Currently learning more on frontend web development
 
 <hr>
 
