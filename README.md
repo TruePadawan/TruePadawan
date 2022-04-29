@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hermes
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?color=blue&style=for-the-badge)
 
-**I'm a developer.**
+**Software Developer.**
 
 I work with **C++ | Qt | HTML | CSS | Js | ReactJS**
 
