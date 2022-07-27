@@ -1,12 +1,9 @@
 # Hi 👋, I'm Hermes
 ![Twitter Follow](https://img.shields.io/twitter/follow/TheTruePadawan?color=blue&style=for-the-badge)
 
-**Software Developer.**
+**Developer.**
 
-I work with **C++ | Qt | HTML | CSS | Js | ReactJS**
-
-* I use C++ and Qt to build simple desktop apps
-* I use HTML | CSS | Js | React | to build webpages and webapps
+I work with **HTML | CSS | Js | ReactJS | C++**
 
 - Currently learning more on frontend web development
 
