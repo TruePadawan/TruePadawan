@@ -1,9 +1,4 @@
 # Hi 👋, I'm Hermes
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TruePadawan&theme=tokyonight&show_icons=true" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact" />
-
 ### 🧰 Tools
 
 #### Languages and Frameworks
@@ -19,3 +14,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <hr>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TruePadawan&theme=tokyonight&show_icons=true" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact" />
