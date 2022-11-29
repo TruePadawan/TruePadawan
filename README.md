@@ -1,8 +1,6 @@
 # Hi 👋, I'm Hermes
 
-<i><b>I write code for webpages and web-application.<b/></i> <br />
-I'm actively focused on building my knowledge on web development at the moment through [theodinproject.](https://www.theodinproject.com/)
-
+<i>Hey, I'm a web developer, that's all.</i>
 ### Languages, Frameworks and Libraries
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
