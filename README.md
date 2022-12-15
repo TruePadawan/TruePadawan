@@ -28,7 +28,7 @@ A ReactJS Web-Application that provides an interface for creating a simple resum
 
 ### MyTodoList
 A Web-Application built with ReactJS and Firebase, providing a simple interface for managing tasks.<br/>
-[**Repository**](https://github.com/TruePadawan/MyTodolist) | [**Live**](https://truepadawan.github.io/MyTodolist/)
+[**Repository**](https://github.com/TruePadawan/MyTodolist) | [**Live**](https://my-todolist-truepadawan.vercel.app/)
 ![MyTodoList](https://user-images.githubusercontent.com/71678062/194568639-0957a29b-3e33-485d-8c19-b51d5228f794.png)
 
 ### Stats
