@@ -16,7 +16,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <hr>
 
-## Projects
+## Featured Projects
 ### Animehaven
 Animehaven is a Web-application that provides information on animes, an interface for compiling lists of animes and having discussions with other users.<br/>
 [**Repository**](https://github.com/TruePadawan/Animehaven-next) | [**Live**](https://animehaven-next.vercel.app/)
@@ -27,12 +27,5 @@ A ReactJS Web-Application that provides an interface for creating a simple resum
 [**Repository**](https://github.com/TruePadawan/Resume-Builder) | [**Live**](https://truepadawan.github.io/Resume-Builder/)
 ![Resume Builder](https://user-images.githubusercontent.com/71678062/194566375-698ccd34-add4-4120-a77f-696e1b34b0e4.png)
 
-### MyTodoList
-A Web-Application built with ReactJS and Firebase, providing a simple interface for managing tasks.<br/>
-[**Repository**](https://github.com/TruePadawan/MyTodolist) | [**Live**](https://my-todolist-truepadawan.vercel.app/)
-![MyTodoList](https://user-images.githubusercontent.com/71678062/194568639-0957a29b-3e33-485d-8c19-b51d5228f794.png)
-
 ### Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TruePadawan&theme=tokyonight&show_icons=true" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact" />
