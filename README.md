@@ -18,12 +18,12 @@
 
 ## Featured Projects
 ### Animehaven
-Animehaven is a Web-application that provides information on animes, an interface for compiling lists of animes and having discussions with other users.<br/>
+Animehaven is a web application that provides information on animes, an interface for compiling lists of animes and having discussions with other users.<br/>
 [**Repository**](https://github.com/TruePadawan/Animehaven-next) | [**Live**](https://animehaven-next.vercel.app/)
 ![Animehaven](https://user-images.githubusercontent.com/71678062/205748954-423e5a49-2289-4ee3-9585-05fe40bdbec0.png)
 
 ### Resume Builder
-A ReactJS Web-Application that provides an interface for creating a simple resume.<br/>
+A ReactJS web application that provides an interface for creating a simple resume.<br/>
 [**Repository**](https://github.com/TruePadawan/Resume-Builder) | [**Live**](https://truepadawan.github.io/Resume-Builder/)
 ![Resume Builder](https://user-images.githubusercontent.com/71678062/194566375-698ccd34-add4-4120-a77f-696e1b34b0e4.png)
 
