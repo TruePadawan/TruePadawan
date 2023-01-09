@@ -26,6 +26,3 @@ Animehaven provides an interface for finding information on animes, compiling li
 A ReactJS web application that provides an interface for creating a simple resume<br/>
 [**Repository**](https://github.com/TruePadawan/Resume-Builder) | [**Live**](https://truepadawan.github.io/Resume-Builder/)
 ![Resume Builder](https://user-images.githubusercontent.com/71678062/194566375-698ccd34-add4-4120-a77f-696e1b34b0e4.png)
-
-### Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruePadawan&layout=compact" />
