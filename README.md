@@ -20,6 +20,7 @@ Web-application for viewing information on anime, managing lists of anime, and m
 * **Cypress**: Testing Framework
 * **AuthJS**: Authentication via Google/GitHub
 * **Cloudinary**: Image Storage
+* **PostHog**: Analytics stuff
 
 ### Goals
 * Learn how to use TailwindCSS, Prisma, Cypress and AuthJS
