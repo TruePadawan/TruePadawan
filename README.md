@@ -9,7 +9,7 @@ Currently, my daily activities are mostly coding, [gaming](https://steamcommunit
 
 If you're interested in fantasy books like myself then I suggest these:
 - All books by Brandon Mull (I liked Fablehaven and might reread a couple of his books)
-- Books by Rick Riordan notably books in the Percy Jackson universe (Percy Jackson, Lost Hero, Trials of Apollo), Sadie and Kane chronicles + Percy Jackson crossover and Magnus chase series
+- Books by Rick Riordan notably books in the Percy Jackson universe (Percy Jackson, Lost Hero, Trials of Apollo), Sadie and Kane chronicles + Percy Jackson crossover and Magnus Chase series
 - Mistborn
 - Michael Vey
 - The Secrets of the Immortal Nicholas Flamel
