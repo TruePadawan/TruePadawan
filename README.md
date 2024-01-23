@@ -14,7 +14,7 @@ If you're interested in fantasy books like myself then I suggest these:
 - Michael Vey
 - The Secrets of the Immortal Nicholas Flamel
 
-## Featured Project
+## Featured Projects
 ### Animehaven
 Web application for viewing information on anime, managing lists of anime, and more
 **Stack**: NextJS, Supabase, Material UI
@@ -22,7 +22,6 @@ Web application for viewing information on anime, managing lists of anime, and m
 [**Repository**](https://github.com/TruePadawan/Animehaven-next) | [**Live**](https://animehaven-next.vercel.app/)
 ![Animehaven](https://user-images.githubusercontent.com/71678062/205748954-423e5a49-2289-4ee3-9585-05fe40bdbec0.png)
 
-## Currently Building
 ### ANON
 ### Stack
 * **NextJS + TypeScript**: Web Framework
