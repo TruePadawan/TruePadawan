@@ -1,7 +1,8 @@
 ## Bio
-Hey, I'm Hermes from Lagos, Nigeria. At the moment, I'm building up my knowledge of software development, I currently work mostly with JavaScript and React.js. I'm looking forward to checking out any of C#, Kotlin or PHP.  
+Hey, I'm Hermes.  
+I work with JavaScript, React.js and the likes. I've also been getting into Python and Kotlin recently.  
 
-My primary stack includes **JavaScript/TypeScript, Next.js/React.js, SCSS/TailwindCSS, Cypress, Prisma, MongoDB**  
+My primary tools includes **JavaScript/TypeScript, Next.js/React.js, SCSS/TailwindCSS, Cypress**  
 
 I developed an interest in coding around 2019-2020 mainly because I wanted to mess around with Unreal Engine and game development, so I started learning to code with C++ and pretty built up my foundations in programming from there, [I played around with C++/Qt for a while](https://github.com/TruePadawan/Nipsie) before eventually pivoting to web technologies after I got exposed to it while I did Harvard's CS50x, so I've been dealing with web technologies for almost 2 years and so far its been alright but still feel like exploring some other things.  
 
@@ -16,27 +17,15 @@ If you're interested in fantasy books like myself then I suggest these:
 
 ## Featured Projects
 ### Animehaven
-Web application for viewing information on anime, managing lists of anime, and more
-**Stack**: NextJS, Supabase, Material UI
+Web application for viewing information on anime, managing lists of anime, and more.  
 
 [**Repository**](https://github.com/TruePadawan/Animehaven-next) | [**Live**](https://animehaven-next.vercel.app/)
 ![Animehaven](https://user-images.githubusercontent.com/71678062/205748954-423e5a49-2289-4ee3-9585-05fe40bdbec0.png)
 
-### ANON
-### Stack
-* **NextJS + TypeScript**: Web Framework
-* **TailwindCSS**: Styling
-* **MongoDB + Prisma**: Database
-* **TipTap**: Rich Text Editor
-* **Mantine**: Component Library
-* **Cypress**: Testing Framework
-* **AuthJS**: Authentication via Google/GitHub
-* **Cloudinary**: Image Storage
-* **PostHog**: Analytics stuff
+<hr />
 
-### Goals
-* Learn how to use TailwindCSS, Prisma, Cypress and AuthJS
-* Build something on par with Animehaven
+### Anon
+A web application that provides a simple interface for creating groups and having discussions.
 
 [**Repository**](https://github.com/TruePadawan/Anon) | [**Live**](https://anon-posts.vercel.app/)
  
