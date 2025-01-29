@@ -1,5 +1,5 @@
 ## Bio
-Hey, I'm Hermes.  
+Hey, I'm Hermes, a 100L student at the University of Ibadan.  
 I work with JavaScript, React.js and the likes. I've also been getting into Python and Kotlin recently.  
 
 My primary tools includes **JavaScript/TypeScript, Next.js/React.js, SCSS/TailwindCSS, Cypress**  
