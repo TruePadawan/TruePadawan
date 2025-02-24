@@ -1,8 +1,7 @@
 ## Bio
-Hey, I'm Hermes, a 100L student at the University of Ibadan.  
-I work with JavaScript, React.js and the likes. I've also been getting into Python and Kotlin recently.  
+Hey, I'm Hermes, a Computer Science student at the University of Ibadan.  
 
-My primary tools includes **JavaScript/TypeScript, Next.js/React.js, SCSS/TailwindCSS, Cypress**  
+My primary tools includes **JavaScript/TypeScript, Next.js/React.js, Python**  
 
 I developed an interest in coding around 2019-2020 mainly because I wanted to mess around with Unreal Engine and game development, so I started learning to code with C++ and pretty built up my foundations in programming from there, [I played around with C++/Qt for a while](https://github.com/TruePadawan/Nipsie) before eventually pivoting to web technologies after I got exposed to it while I did Harvard's CS50x, so I've been dealing with web technologies for almost 2 years and so far its been alright but still feel like exploring some other things.  
 
