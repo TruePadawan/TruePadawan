@@ -1,11 +1,9 @@
 ## Bio
 Hey, I'm Hermes, a Computer Science student at the University of Ibadan.  
 
-My primary tools includes **JavaScript/TypeScript, Next.js/React.js, Python**  
-
 I developed an interest in coding around 2019-2020 mainly because I wanted to mess around with Unreal Engine and game development, so I started learning to code with C++ and pretty built up my foundations in programming from there, [I played around with C++/Qt for a while](https://github.com/TruePadawan/Nipsie) before eventually pivoting to web technologies after I got exposed to it while I did Harvard's CS50x, so I've been dealing with web technologies for almost 2 years and so far its been alright but still feel like exploring some other things.  
 
-Currently, my daily activities are mostly coding, [gaming](https://steamcommunity.com/id/hermeschi/) and reading (manga/manhwa/fantasy books/studying)  
+My interests are mainly programming, [gaming](https://steamcommunity.com/id/hermeschi/) and reading (manga/manhwa/fantasy books)  
 
 If you're interested in fantasy books like myself then I suggest these:
 - All books by Brandon Mull (I liked Fablehaven and might reread a couple of his books)
