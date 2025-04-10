@@ -1,7 +1,7 @@
 ## Bio
 Hey, I'm Hermes, a Computer Science student at the University of Ibadan. I build things primarily with: TypeScript, React.js, Python, Kotlin
 
-I developed an interest in coding some years ago and so far my programming timeline has been:
+My Programming timeline so far:
 - Started learning to code with C++ and built up my foundations in programming from there
 - [Played with C++ and Qt Framework for a while](https://github.com/TruePadawan/Nipsie)
 - [Was interested in Computer Science so I enrolled and completed Harvard's CS50x](https://certificates.cs50.io/704b684e-4a97-4871-a738-e96ce7ffa93b.pdf?size=letter)
