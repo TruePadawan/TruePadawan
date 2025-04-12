@@ -1,19 +1,7 @@
 ## Bio
-Hey, I'm Hermes, a Computer Science student at the University of Ibadan. I build things primarily with: TypeScript, React.js, Python, Kotlin
-
-My Programming timeline so far:
-- Started learning to code with C++ and built up my foundations in programming from there
-- [Played with C++ and Qt Framework for a while](https://github.com/TruePadawan/Nipsie)
-- [Was interested in Computer Science so I enrolled and completed Harvard's CS50x](https://certificates.cs50.io/704b684e-4a97-4871-a738-e96ce7ffa93b.pdf?size=letter)
-- Got exposed to Web technologies while doing CS50x and decided to go into it
-- Since then I've dealt with a couple of web related technologies like TypeScript, React.js, Next.js, Express.js, TailwindCSS, etc
-- Had to use a lot of Python in my first year of University, collaborated with 2 other coursemates to build [Locksmith](https://github.com/TruePadawan/Locksmith)
-- Working on making contributions to open source software
-
-There are a couple of technologies I find interesting at the moment:
-- Nest.js
-- Kotlin
-- Game Engines
+Hermes  
+Computer Science student  
+TypeScript, React.js, Python, Kotlin
 
 ## Featured Projects
 ### Animehaven
