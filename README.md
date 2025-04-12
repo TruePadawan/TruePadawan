@@ -1,4 +1,3 @@
-## Bio
 Hermes  
 Computer Science student  
 TypeScript, React.js, Python, Kotlin
