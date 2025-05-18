@@ -1,6 +1,6 @@
 Hermes  
 Computer Science student  
-TypeScript, React.js, Python, Kotlin
+TypeScript, React.js, Python
 
 ## Featured Projects
 ### Animehaven
