@@ -1,6 +1,7 @@
 Hermes  
 Computer Science student  
-TypeScript, React.js, Python  
+TypeScript, Python, Java, C#/.NET  
 
 _Some other technologies I've used for some time in the past: C++, Qt Framework_  
-_Working towards improving my backend skillset and picking up C#_
+
+_I got interested in C# so I'm currently dipping my fingers into the C#/.NET ecosystem_
