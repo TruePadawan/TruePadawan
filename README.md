@@ -4,4 +4,4 @@ Tech Stack? At the moment, I find that I'm working mostly working with technolog
 
 I'm building a cross-platform digital whiteboard  
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a817026-a4a6-41fd-b684-1323a2f0f9d8" />
+<img width="1916" height="1048" alt="image" src="https://github.com/user-attachments/assets/fc7ad7c1-6bb0-4807-ad5e-d621a22e5a6d" />
