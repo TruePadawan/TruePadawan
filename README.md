@@ -1,9 +1,3 @@
-**Hermes**  
-Human Being  
-Tech Stack? At the moment, I find that I'm working mostly working with technologies related to C#/.NET and full-stack web development
-
-I'm building a cross-platform infinite whiteboard  
-
 <img width="1895" height="1027" alt="Screenshot from 2026-05-03 13-10-20" src="https://github.com/user-attachments/assets/6e9d47bf-ddd0-4f55-bc52-2d676a30942d" />
 
 <img width="1895" height="1027" alt="Screenshot from 2026-05-03 13-16-59" src="https://github.com/user-attachments/assets/7017ae99-cd33-41a3-80fe-ba67734b45d5" />
